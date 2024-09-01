@@ -1,3 +1,12 @@
+Hello :)
+
+In this project we made a social network similar to twitter using Elixir, Absinthe with Phonenix framework using an API with GraphQL
+
+- Elixir
+- GraphQL
+- GraphQL APIs
+- Real-time communication with Subscriptions
+
 # Twix
 
 To start your Phoenix server:
@@ -16,5 +25,4 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
-# Twix-Twitter
 # Twix-Twitter
